@@ -1,0 +1,588 @@
+CREMA-D Recordings for Actors Aged 60 and Above
+=======================================================
+
+Total actors: 6
+Total recordings: 492
+
+Actor 1016
+Age: 61
+Total recordings: 82
+Recordings by emotion:
+  ANG (Anger): 14 recordings
+  DIS (Disgust): 14 recordings
+  FEA (Fear): 14 recordings
+  HAP (Happiness): 14 recordings
+  NEU (Neutral): 12 recordings
+  SAD (Sadness): 14 recordings
+
+Filenames:
+  1016_DFA_ANG_XX.wav
+  1016_DFA_DIS_XX.wav
+  1016_DFA_FEA_XX.wav
+  1016_DFA_HAP_XX.wav
+  1016_DFA_NEU_XX.wav
+  1016_DFA_SAD_XX.wav
+  1016_IEO_ANG_HI.wav
+  1016_IEO_ANG_LO.wav
+  1016_IEO_ANG_MD.wav
+  1016_IEO_DIS_HI.wav
+  1016_IEO_DIS_LO.wav
+  1016_IEO_DIS_MD.wav
+  1016_IEO_FEA_HI.wav
+  1016_IEO_FEA_LO.wav
+  1016_IEO_FEA_MD.wav
+  1016_IEO_HAP_HI.wav
+  1016_IEO_HAP_LO.wav
+  1016_IEO_HAP_MD.wav
+  1016_IEO_NEU_XX.wav
+  1016_IEO_SAD_HI.wav
+  1016_IEO_SAD_LO.wav
+  1016_IEO_SAD_MD.wav
+  1016_IOM_ANG_XX.wav
+  1016_IOM_DIS_XX.wav
+  1016_IOM_FEA_XX.wav
+  1016_IOM_HAP_XX.wav
+  1016_IOM_NEU_XX.wav
+  1016_IOM_SAD_XX.wav
+  1016_ITH_ANG_XX.wav
+  1016_ITH_DIS_XX.wav
+  1016_ITH_FEA_XX.wav
+  1016_ITH_HAP_XX.wav
+  1016_ITH_NEU_XX.wav
+  1016_ITH_SAD_XX.wav
+  1016_ITS_ANG_XX.wav
+  1016_ITS_DIS_XX.wav
+  1016_ITS_FEA_XX.wav
+  1016_ITS_HAP_XX.wav
+  1016_ITS_NEU_XX.wav
+  1016_ITS_SAD_XX.wav
+  1016_IWL_ANG_XX.wav
+  1016_IWL_DIS_XX.wav
+  1016_IWL_FEA_XX.wav
+  1016_IWL_HAP_XX.wav
+  1016_IWL_NEU_XX.wav
+  1016_IWL_SAD_XX.wav
+  1016_IWW_ANG_XX.wav
+  1016_IWW_DIS_XX.wav
+  1016_IWW_FEA_XX.wav
+  1016_IWW_HAP_XX.wav
+  1016_IWW_NEU_XX.wav
+  1016_IWW_SAD_XX.wav
+  1016_MTI_ANG_XX.wav
+  1016_MTI_DIS_XX.wav
+  1016_MTI_FEA_XX.wav
+  1016_MTI_HAP_XX.wav
+  1016_MTI_NEU_XX.wav
+  1016_MTI_SAD_XX.wav
+  1016_TAI_ANG_XX.wav
+  1016_TAI_DIS_XX.wav
+  1016_TAI_FEA_XX.wav
+  1016_TAI_HAP_XX.wav
+  1016_TAI_NEU_XX.wav
+  1016_TAI_SAD_XX.wav
+  1016_TIE_ANG_XX.wav
+  1016_TIE_DIS_XX.wav
+  1016_TIE_FEA_XX.wav
+  1016_TIE_HAP_XX.wav
+  1016_TIE_NEU_XX.wav
+  1016_TIE_SAD_XX.wav
+  1016_TSI_ANG_XX.wav
+  1016_TSI_DIS_XX.wav
+  1016_TSI_FEA_XX.wav
+  1016_TSI_HAP_XX.wav
+  1016_TSI_NEU_XX.wav
+  1016_TSI_SAD_XX.wav
+  1016_WSI_ANG_XX.wav
+  1016_WSI_DIS_XX.wav
+  1016_WSI_FEA_XX.wav
+  1016_WSI_HAP_XX.wav
+  1016_WSI_NEU_XX.wav
+  1016_WSI_SAD_XX.wav
+
+-------------------------------------------------------
+
+Actor 1020
+Age: 61
+Total recordings: 82
+Recordings by emotion:
+  ANG (Anger): 14 recordings
+  DIS (Disgust): 14 recordings
+  FEA (Fear): 14 recordings
+  HAP (Happiness): 14 recordings
+  NEU (Neutral): 12 recordings
+  SAD (Sadness): 14 recordings
+
+Filenames:
+  1020_DFA_ANG_XX.wav
+  1020_DFA_DIS_XX.wav
+  1020_DFA_FEA_XX.wav
+  1020_DFA_HAP_XX.wav
+  1020_DFA_NEU_XX.wav
+  1020_DFA_SAD_XX.wav
+  1020_IEO_ANG_HI.wav
+  1020_IEO_ANG_LO.wav
+  1020_IEO_ANG_MD.wav
+  1020_IEO_DIS_HI.wav
+  1020_IEO_DIS_LO.wav
+  1020_IEO_DIS_MD.wav
+  1020_IEO_FEA_HI.wav
+  1020_IEO_FEA_LO.wav
+  1020_IEO_FEA_MD.wav
+  1020_IEO_HAP_HI.wav
+  1020_IEO_HAP_LO.wav
+  1020_IEO_HAP_MD.wav
+  1020_IEO_NEU_XX.wav
+  1020_IEO_SAD_HI.wav
+  1020_IEO_SAD_LO.wav
+  1020_IEO_SAD_MD.wav
+  1020_IOM_ANG_XX.wav
+  1020_IOM_DIS_XX.wav
+  1020_IOM_FEA_XX.wav
+  1020_IOM_HAP_XX.wav
+  1020_IOM_NEU_XX.wav
+  1020_IOM_SAD_XX.wav
+  1020_ITH_ANG_XX.wav
+  1020_ITH_DIS_XX.wav
+  1020_ITH_FEA_XX.wav
+  1020_ITH_HAP_XX.wav
+  1020_ITH_NEU_XX.wav
+  1020_ITH_SAD_XX.wav
+  1020_ITS_ANG_XX.wav
+  1020_ITS_DIS_XX.wav
+  1020_ITS_FEA_XX.wav
+  1020_ITS_HAP_XX.wav
+  1020_ITS_NEU_XX.wav
+  1020_ITS_SAD_XX.wav
+  1020_IWL_ANG_XX.wav
+  1020_IWL_DIS_XX.wav
+  1020_IWL_FEA_XX.wav
+  1020_IWL_HAP_XX.wav
+  1020_IWL_NEU_XX.wav
+  1020_IWL_SAD_XX.wav
+  1020_IWW_ANG_XX.wav
+  1020_IWW_DIS_XX.wav
+  1020_IWW_FEA_XX.wav
+  1020_IWW_HAP_XX.wav
+  1020_IWW_NEU_XX.wav
+  1020_IWW_SAD_XX.wav
+  1020_MTI_ANG_XX.wav
+  1020_MTI_DIS_XX.wav
+  1020_MTI_FEA_XX.wav
+  1020_MTI_HAP_XX.wav
+  1020_MTI_NEU_XX.wav
+  1020_MTI_SAD_XX.wav
+  1020_TAI_ANG_XX.wav
+  1020_TAI_DIS_XX.wav
+  1020_TAI_FEA_XX.wav
+  1020_TAI_HAP_XX.wav
+  1020_TAI_NEU_XX.wav
+  1020_TAI_SAD_XX.wav
+  1020_TIE_ANG_XX.wav
+  1020_TIE_DIS_XX.wav
+  1020_TIE_FEA_XX.wav
+  1020_TIE_HAP_XX.wav
+  1020_TIE_NEU_XX.wav
+  1020_TIE_SAD_XX.wav
+  1020_TSI_ANG_XX.wav
+  1020_TSI_DIS_XX.wav
+  1020_TSI_FEA_XX.wav
+  1020_TSI_HAP_XX.wav
+  1020_TSI_NEU_XX.wav
+  1020_TSI_SAD_XX.wav
+  1020_WSI_ANG_XX.wav
+  1020_WSI_DIS_XX.wav
+  1020_WSI_FEA_XX.wav
+  1020_WSI_HAP_XX.wav
+  1020_WSI_NEU_XX.wav
+  1020_WSI_SAD_XX.wav
+
+-------------------------------------------------------
+
+Actor 1034
+Age: 74
+Total recordings: 82
+Recordings by emotion:
+  ANG (Anger): 14 recordings
+  DIS (Disgust): 14 recordings
+  FEA (Fear): 14 recordings
+  HAP (Happiness): 14 recordings
+  NEU (Neutral): 12 recordings
+  SAD (Sadness): 14 recordings
+
+Filenames:
+  1034_DFA_ANG_XX.wav
+  1034_DFA_DIS_XX.wav
+  1034_DFA_FEA_XX.wav
+  1034_DFA_HAP_XX.wav
+  1034_DFA_NEU_XX.wav
+  1034_DFA_SAD_XX.wav
+  1034_IEO_ANG_HI.wav
+  1034_IEO_ANG_LO.wav
+  1034_IEO_ANG_MD.wav
+  1034_IEO_DIS_HI.wav
+  1034_IEO_DIS_LO.wav
+  1034_IEO_DIS_MD.wav
+  1034_IEO_FEA_HI.wav
+  1034_IEO_FEA_LO.wav
+  1034_IEO_FEA_MD.wav
+  1034_IEO_HAP_HI.wav
+  1034_IEO_HAP_LO.wav
+  1034_IEO_HAP_MD.wav
+  1034_IEO_NEU_XX.wav
+  1034_IEO_SAD_HI.wav
+  1034_IEO_SAD_LO.wav
+  1034_IEO_SAD_MD.wav
+  1034_IOM_ANG_XX.wav
+  1034_IOM_DIS_XX.wav
+  1034_IOM_FEA_XX.wav
+  1034_IOM_HAP_XX.wav
+  1034_IOM_NEU_XX.wav
+  1034_IOM_SAD_XX.wav
+  1034_ITH_ANG_XX.wav
+  1034_ITH_DIS_XX.wav
+  1034_ITH_FEA_XX.wav
+  1034_ITH_HAP_XX.wav
+  1034_ITH_NEU_XX.wav
+  1034_ITH_SAD_XX.wav
+  1034_ITS_ANG_XX.wav
+  1034_ITS_DIS_XX.wav
+  1034_ITS_FEA_XX.wav
+  1034_ITS_HAP_XX.wav
+  1034_ITS_NEU_XX.wav
+  1034_ITS_SAD_XX.wav
+  1034_IWL_ANG_XX.wav
+  1034_IWL_DIS_XX.wav
+  1034_IWL_FEA_XX.wav
+  1034_IWL_HAP_XX.wav
+  1034_IWL_NEU_XX.wav
+  1034_IWL_SAD_XX.wav
+  1034_IWW_ANG_XX.wav
+  1034_IWW_DIS_XX.wav
+  1034_IWW_FEA_XX.wav
+  1034_IWW_HAP_XX.wav
+  1034_IWW_NEU_XX.wav
+  1034_IWW_SAD_XX.wav
+  1034_MTI_ANG_XX.wav
+  1034_MTI_DIS_XX.wav
+  1034_MTI_FEA_XX.wav
+  1034_MTI_HAP_XX.wav
+  1034_MTI_NEU_XX.wav
+  1034_MTI_SAD_XX.wav
+  1034_TAI_ANG_XX.wav
+  1034_TAI_DIS_XX.wav
+  1034_TAI_FEA_XX.wav
+  1034_TAI_HAP_XX.wav
+  1034_TAI_NEU_XX.wav
+  1034_TAI_SAD_XX.wav
+  1034_TIE_ANG_XX.wav
+  1034_TIE_DIS_XX.wav
+  1034_TIE_FEA_XX.wav
+  1034_TIE_HAP_XX.wav
+  1034_TIE_NEU_XX.wav
+  1034_TIE_SAD_XX.wav
+  1034_TSI_ANG_XX.wav
+  1034_TSI_DIS_XX.wav
+  1034_TSI_FEA_XX.wav
+  1034_TSI_HAP_XX.wav
+  1034_TSI_NEU_XX.wav
+  1034_TSI_SAD_XX.wav
+  1034_WSI_ANG_XX.wav
+  1034_WSI_DIS_XX.wav
+  1034_WSI_FEA_XX.wav
+  1034_WSI_HAP_XX.wav
+  1034_WSI_NEU_XX.wav
+  1034_WSI_SAD_XX.wav
+
+-------------------------------------------------------
+
+Actor 1050
+Age: 62
+Total recordings: 82
+Recordings by emotion:
+  ANG (Anger): 14 recordings
+  DIS (Disgust): 14 recordings
+  FEA (Fear): 14 recordings
+  HAP (Happiness): 14 recordings
+  NEU (Neutral): 12 recordings
+  SAD (Sadness): 14 recordings
+
+Filenames:
+  1050_DFA_ANG_XX.wav
+  1050_DFA_DIS_XX.wav
+  1050_DFA_FEA_XX.wav
+  1050_DFA_HAP_XX.wav
+  1050_DFA_NEU_XX.wav
+  1050_DFA_SAD_XX.wav
+  1050_IEO_ANG_HI.wav
+  1050_IEO_ANG_LO.wav
+  1050_IEO_ANG_MD.wav
+  1050_IEO_DIS_HI.wav
+  1050_IEO_DIS_LO.wav
+  1050_IEO_DIS_MD.wav
+  1050_IEO_FEA_HI.wav
+  1050_IEO_FEA_LO.wav
+  1050_IEO_FEA_MD.wav
+  1050_IEO_HAP_HI.wav
+  1050_IEO_HAP_LO.wav
+  1050_IEO_HAP_MD.wav
+  1050_IEO_NEU_XX.wav
+  1050_IEO_SAD_HI.wav
+  1050_IEO_SAD_LO.wav
+  1050_IEO_SAD_MD.wav
+  1050_IOM_ANG_XX.wav
+  1050_IOM_DIS_XX.wav
+  1050_IOM_FEA_XX.wav
+  1050_IOM_HAP_XX.wav
+  1050_IOM_NEU_XX.wav
+  1050_IOM_SAD_XX.wav
+  1050_ITH_ANG_XX.wav
+  1050_ITH_DIS_XX.wav
+  1050_ITH_FEA_XX.wav
+  1050_ITH_HAP_XX.wav
+  1050_ITH_NEU_XX.wav
+  1050_ITH_SAD_XX.wav
+  1050_ITS_ANG_XX.wav
+  1050_ITS_DIS_XX.wav
+  1050_ITS_FEA_XX.wav
+  1050_ITS_HAP_XX.wav
+  1050_ITS_NEU_XX.wav
+  1050_ITS_SAD_XX.wav
+  1050_IWL_ANG_XX.wav
+  1050_IWL_DIS_XX.wav
+  1050_IWL_FEA_XX.wav
+  1050_IWL_HAP_XX.wav
+  1050_IWL_NEU_XX.wav
+  1050_IWL_SAD_XX.wav
+  1050_IWW_ANG_XX.wav
+  1050_IWW_DIS_XX.wav
+  1050_IWW_FEA_XX.wav
+  1050_IWW_HAP_XX.wav
+  1050_IWW_NEU_XX.wav
+  1050_IWW_SAD_XX.wav
+  1050_MTI_ANG_XX.wav
+  1050_MTI_DIS_XX.wav
+  1050_MTI_FEA_XX.wav
+  1050_MTI_HAP_XX.wav
+  1050_MTI_NEU_XX.wav
+  1050_MTI_SAD_XX.wav
+  1050_TAI_ANG_XX.wav
+  1050_TAI_DIS_XX.wav
+  1050_TAI_FEA_XX.wav
+  1050_TAI_HAP_XX.wav
+  1050_TAI_NEU_XX.wav
+  1050_TAI_SAD_XX.wav
+  1050_TIE_ANG_XX.wav
+  1050_TIE_DIS_XX.wav
+  1050_TIE_FEA_XX.wav
+  1050_TIE_HAP_XX.wav
+  1050_TIE_NEU_XX.wav
+  1050_TIE_SAD_XX.wav
+  1050_TSI_ANG_XX.wav
+  1050_TSI_DIS_XX.wav
+  1050_TSI_FEA_XX.wav
+  1050_TSI_HAP_XX.wav
+  1050_TSI_NEU_XX.wav
+  1050_TSI_SAD_XX.wav
+  1050_WSI_ANG_XX.wav
+  1050_WSI_DIS_XX.wav
+  1050_WSI_FEA_XX.wav
+  1050_WSI_HAP_XX.wav
+  1050_WSI_NEU_XX.wav
+  1050_WSI_SAD_XX.wav
+
+-------------------------------------------------------
+
+Actor 1067
+Age: 66
+Total recordings: 82
+Recordings by emotion:
+  ANG (Anger): 14 recordings
+  DIS (Disgust): 14 recordings
+  FEA (Fear): 14 recordings
+  HAP (Happiness): 14 recordings
+  NEU (Neutral): 12 recordings
+  SAD (Sadness): 14 recordings
+
+Filenames:
+  1067_DFA_ANG_XX.wav
+  1067_DFA_DIS_XX.wav
+  1067_DFA_FEA_XX.wav
+  1067_DFA_HAP_XX.wav
+  1067_DFA_NEU_XX.wav
+  1067_DFA_SAD_XX.wav
+  1067_IEO_ANG_HI.wav
+  1067_IEO_ANG_LO.wav
+  1067_IEO_ANG_MD.wav
+  1067_IEO_DIS_HI.wav
+  1067_IEO_DIS_LO.wav
+  1067_IEO_DIS_MD.wav
+  1067_IEO_FEA_HI.wav
+  1067_IEO_FEA_LO.wav
+  1067_IEO_FEA_MD.wav
+  1067_IEO_HAP_HI.wav
+  1067_IEO_HAP_LO.wav
+  1067_IEO_HAP_MD.wav
+  1067_IEO_NEU_XX.wav
+  1067_IEO_SAD_HI.wav
+  1067_IEO_SAD_LO.wav
+  1067_IEO_SAD_MD.wav
+  1067_IOM_ANG_XX.wav
+  1067_IOM_DIS_XX.wav
+  1067_IOM_FEA_XX.wav
+  1067_IOM_HAP_XX.wav
+  1067_IOM_NEU_XX.wav
+  1067_IOM_SAD_XX.wav
+  1067_ITH_ANG_XX.wav
+  1067_ITH_DIS_XX.wav
+  1067_ITH_FEA_XX.wav
+  1067_ITH_HAP_XX.wav
+  1067_ITH_NEU_XX.wav
+  1067_ITH_SAD_XX.wav
+  1067_ITS_ANG_XX.wav
+  1067_ITS_DIS_XX.wav
+  1067_ITS_FEA_XX.wav
+  1067_ITS_HAP_XX.wav
+  1067_ITS_NEU_XX.wav
+  1067_ITS_SAD_XX.wav
+  1067_IWL_ANG_XX.wav
+  1067_IWL_DIS_XX.wav
+  1067_IWL_FEA_XX.wav
+  1067_IWL_HAP_XX.wav
+  1067_IWL_NEU_XX.wav
+  1067_IWL_SAD_XX.wav
+  1067_IWW_ANG_XX.wav
+  1067_IWW_DIS_XX.wav
+  1067_IWW_FEA_XX.wav
+  1067_IWW_HAP_XX.wav
+  1067_IWW_NEU_XX.wav
+  1067_IWW_SAD_XX.wav
+  1067_MTI_ANG_XX.wav
+  1067_MTI_DIS_XX.wav
+  1067_MTI_FEA_XX.wav
+  1067_MTI_HAP_XX.wav
+  1067_MTI_NEU_XX.wav
+  1067_MTI_SAD_XX.wav
+  1067_TAI_ANG_XX.wav
+  1067_TAI_DIS_XX.wav
+  1067_TAI_FEA_XX.wav
+  1067_TAI_HAP_XX.wav
+  1067_TAI_NEU_XX.wav
+  1067_TAI_SAD_XX.wav
+  1067_TIE_ANG_XX.wav
+  1067_TIE_DIS_XX.wav
+  1067_TIE_FEA_XX.wav
+  1067_TIE_HAP_XX.wav
+  1067_TIE_NEU_XX.wav
+  1067_TIE_SAD_XX.wav
+  1067_TSI_ANG_XX.wav
+  1067_TSI_DIS_XX.wav
+  1067_TSI_FEA_XX.wav
+  1067_TSI_HAP_XX.wav
+  1067_TSI_NEU_XX.wav
+  1067_TSI_SAD_XX.wav
+  1067_WSI_ANG_XX.wav
+  1067_WSI_DIS_XX.wav
+  1067_WSI_FEA_XX.wav
+  1067_WSI_HAP_XX.wav
+  1067_WSI_NEU_XX.wav
+  1067_WSI_SAD_XX.wav
+
+-------------------------------------------------------
+
+Actor 1087
+Age: 62
+Total recordings: 82
+Recordings by emotion:
+  ANG (Anger): 14 recordings
+  DIS (Disgust): 14 recordings
+  FEA (Fear): 14 recordings
+  HAP (Happiness): 14 recordings
+  NEU (Neutral): 12 recordings
+  SAD (Sadness): 14 recordings
+
+Filenames:
+  1087_DFA_ANG_XX.wav
+  1087_DFA_DIS_XX.wav
+  1087_DFA_FEA_XX.wav
+  1087_DFA_HAP_XX.wav
+  1087_DFA_NEU_XX.wav
+  1087_DFA_SAD_XX.wav
+  1087_IEO_ANG_HI.wav
+  1087_IEO_ANG_LO.wav
+  1087_IEO_ANG_MD.wav
+  1087_IEO_DIS_HI.wav
+  1087_IEO_DIS_LO.wav
+  1087_IEO_DIS_MD.wav
+  1087_IEO_FEA_HI.wav
+  1087_IEO_FEA_LO.wav
+  1087_IEO_FEA_MD.wav
+  1087_IEO_HAP_HI.wav
+  1087_IEO_HAP_LO.wav
+  1087_IEO_HAP_MD.wav
+  1087_IEO_NEU_XX.wav
+  1087_IEO_SAD_HI.wav
+  1087_IEO_SAD_LO.wav
+  1087_IEO_SAD_MD.wav
+  1087_IOM_ANG_XX.wav
+  1087_IOM_DIS_XX.wav
+  1087_IOM_FEA_XX.wav
+  1087_IOM_HAP_XX.wav
+  1087_IOM_NEU_XX.wav
+  1087_IOM_SAD_XX.wav
+  1087_ITH_ANG_XX.wav
+  1087_ITH_DIS_XX.wav
+  1087_ITH_FEA_XX.wav
+  1087_ITH_HAP_XX.wav
+  1087_ITH_NEU_XX.wav
+  1087_ITH_SAD_XX.wav
+  1087_ITS_ANG_XX.wav
+  1087_ITS_DIS_XX.wav
+  1087_ITS_FEA_XX.wav
+  1087_ITS_HAP_XX.wav
+  1087_ITS_NEU_XX.wav
+  1087_ITS_SAD_XX.wav
+  1087_IWL_ANG_XX.wav
+  1087_IWL_DIS_XX.wav
+  1087_IWL_FEA_XX.wav
+  1087_IWL_HAP_XX.wav
+  1087_IWL_NEU_XX.wav
+  1087_IWL_SAD_XX.wav
+  1087_IWW_ANG_XX.wav
+  1087_IWW_DIS_XX.wav
+  1087_IWW_FEA_XX.wav
+  1087_IWW_HAP_XX.wav
+  1087_IWW_NEU_XX.wav
+  1087_IWW_SAD_XX.wav
+  1087_MTI_ANG_XX.wav
+  1087_MTI_DIS_XX.wav
+  1087_MTI_FEA_XX.wav
+  1087_MTI_HAP_XX.wav
+  1087_MTI_NEU_XX.wav
+  1087_MTI_SAD_XX.wav
+  1087_TAI_ANG_XX.wav
+  1087_TAI_DIS_XX.wav
+  1087_TAI_FEA_XX.wav
+  1087_TAI_HAP_XX.wav
+  1087_TAI_NEU_XX.wav
+  1087_TAI_SAD_XX.wav
+  1087_TIE_ANG_XX.wav
+  1087_TIE_DIS_XX.wav
+  1087_TIE_FEA_XX.wav
+  1087_TIE_HAP_XX.wav
+  1087_TIE_NEU_XX.wav
+  1087_TIE_SAD_XX.wav
+  1087_TSI_ANG_XX.wav
+  1087_TSI_DIS_XX.wav
+  1087_TSI_FEA_XX.wav
+  1087_TSI_HAP_XX.wav
+  1087_TSI_NEU_XX.wav
+  1087_TSI_SAD_XX.wav
+  1087_WSI_ANG_XX.wav
+  1087_WSI_DIS_XX.wav
+  1087_WSI_FEA_XX.wav
+  1087_WSI_HAP_XX.wav
+  1087_WSI_NEU_XX.wav
+  1087_WSI_SAD_XX.wav
+
+-------------------------------------------------------
+
