@@ -6,19 +6,19 @@ arrays in raw ADC counts at a calibrated 6 kHz sample rate.
 
 ## Sessions
 
-- `20260717_conference-room-01_conference-table_background/`: 55.33 seconds of
+- `20260717_confroom_bg/`: 55.33 seconds of
   no-playback background vibration.
-- `20260717_conference-room-01_conference-table_crema-d-actor-1016/`: 234.20
+- `20260717_confroom_crema_1016/`: 234.20
   seconds during CREMA-D actor 1016 playback.
-- `20260717_conference-room-01_conference-table_crema-d-actor-1020/`: 248.62
+- `20260717_confroom_crema_1020/`: 248.62
   seconds during CREMA-D actor 1020 playback.
-- `20260717_conference-room-01_conference-table_crema-d-actor-1034/`: 215.77
+- `20260717_confroom_crema_1034/`: 215.77
   seconds during CREMA-D actor 1034 playback.
-- `20260717_conference-room-01_conference-table_crema-d-actor-1050/`: 230.27
+- `20260717_confroom_crema_1050/`: 230.27
   seconds during CREMA-D actor 1050 playback.
-- `20260717_conference-room-01_conference-table_crema-d-actor-1067/`: 231.81
+- `20260717_confroom_crema_1067/`: 231.81
   seconds during CREMA-D actor 1067 playback.
-- `20260717_conference-room-01_conference-table_crema-d-actor-1087/`: 225.20
+- `20260717_confroom_crema_1087/`: 225.20
   seconds during CREMA-D actor 1087 playback.
 
 Each actor session contains all 82 of that actor's clips. Across the six

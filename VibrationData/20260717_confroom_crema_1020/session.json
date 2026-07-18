@@ -6,7 +6,7 @@
     "transport": "usb_serial",
     "units": "raw_adc_counts"
   },
-  "ended_at_utc": "2026-07-18T00:21:52.169Z",
+  "ended_at_utc": "2026-07-18T00:39:12.543Z",
   "environment": {
     "intentional_noise_sources": [],
     "noise_condition": "unspecified",
@@ -30,19 +30,19 @@
     "gain_db": null,
     "source_dataset": "",
     "source_file": "",
-    "source_id": "crema-d_actor_1050",
+    "source_id": "crema-d_actor_1020",
     "speaker_model": "",
     "volume_setting": ""
   },
   "receiver_summary": {
-    "closed_at_unix_s": 1784334112.1690571,
+    "closed_at_unix_s": 1784335152.5433118,
     "streams": [
       {
         "boot_id": 848316260,
         "node_id": 1,
         "packets_duplicate_or_old": 0,
         "packets_lost": 0,
-        "packets_received": 5397
+        "packets_received": 5827
       }
     ]
   },
@@ -52,9 +52,9 @@
     "type": ""
   },
   "schema_version": "1.0",
-  "session_id": "20260717_conference-room-01_conference-table_crema-d-actor-1050",
+  "session_id": "20260717_confroom_crema_1020",
   "session_label": "mixed",
-  "started_at_utc": "2026-07-18T00:18:02.625Z",
+  "started_at_utc": "2026-07-18T00:35:04.699Z",
   "surface": {
     "material": "",
     "mount_method": "",
