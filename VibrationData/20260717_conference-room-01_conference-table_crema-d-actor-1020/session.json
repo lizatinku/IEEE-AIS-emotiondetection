@@ -6,7 +6,7 @@
     "transport": "usb_serial",
     "units": "raw_adc_counts"
   },
-  "ended_at_utc": "2026-07-18T00:05:08.973Z",
+  "ended_at_utc": "2026-07-18T00:39:12.543Z",
   "environment": {
     "intentional_noise_sources": [],
     "noise_condition": "unspecified",
@@ -35,14 +35,14 @@
     "volume_setting": ""
   },
   "receiver_summary": {
-    "closed_at_unix_s": 1784333108.973548,
+    "closed_at_unix_s": 1784335152.5433118,
     "streams": [
       {
         "boot_id": 848316260,
         "node_id": 1,
         "packets_duplicate_or_old": 0,
         "packets_lost": 0,
-        "packets_received": 5824
+        "packets_received": 5827
       }
     ]
   },
@@ -54,7 +54,7 @@
   "schema_version": "1.0",
   "session_id": "20260717_conference-room-01_conference-table_crema-d-actor-1020",
   "session_label": "mixed",
-  "started_at_utc": "2026-07-18T00:01:01.238Z",
+  "started_at_utc": "2026-07-18T00:35:04.699Z",
   "surface": {
     "material": "",
     "mount_method": "",
