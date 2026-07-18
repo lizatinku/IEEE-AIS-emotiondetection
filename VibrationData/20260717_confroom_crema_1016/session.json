@@ -1,0 +1,63 @@
+{
+  "acquisition": {
+    "protocol_version": 1,
+    "sample_storage_dtype": "<i4",
+    "serial_baud": 921600,
+    "transport": "usb_serial",
+    "units": "raw_adc_counts"
+  },
+  "ended_at_utc": "2026-07-18T00:34:58.335Z",
+  "environment": {
+    "intentional_noise_sources": [],
+    "noise_condition": "unspecified",
+    "occupancy": null
+  },
+  "geometry": {
+    "sensor_location": "",
+    "speaker_orientation": "",
+    "speaker_to_sensor_m": 0.2
+  },
+  "nodes": [
+    {
+      "boot_id": 848316260,
+      "node_id": 1,
+      "sample_rate_hz": 6000
+    }
+  ],
+  "notes": "",
+  "operator": "",
+  "playback": {
+    "gain_db": null,
+    "source_dataset": "",
+    "source_file": "",
+    "source_id": "crema-d_actor_1016",
+    "speaker_model": "",
+    "volume_setting": ""
+  },
+  "receiver_summary": {
+    "closed_at_unix_s": 1784334898.3350341,
+    "streams": [
+      {
+        "boot_id": 848316260,
+        "node_id": 1,
+        "packets_duplicate_or_old": 0,
+        "packets_lost": 0,
+        "packets_received": 5489
+      }
+    ]
+  },
+  "room": {
+    "id": "conference-room-01",
+    "notes": "",
+    "type": ""
+  },
+  "schema_version": "1.0",
+  "session_id": "20260717_confroom_crema_1016",
+  "session_label": "mixed",
+  "started_at_utc": "2026-07-18T00:31:04.870Z",
+  "surface": {
+    "material": "",
+    "mount_method": "",
+    "type": "conference-table"
+  }
+}
