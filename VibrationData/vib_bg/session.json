@@ -1,0 +1,66 @@
+{
+  "acquisition": {
+    "adc_offset": 0,
+    "configured_sample_rate_hz": 8000,
+    "pga_gain": 32,
+    "protocol_version": 1,
+    "sample_storage_dtype": "<i4",
+    "serial_baud": 921600,
+    "transport": "usb_serial",
+    "units": "raw_adc_counts"
+  },
+  "ended_at_utc": "2026-07-23T01:07:11.014Z",
+  "environment": {
+    "intentional_noise_sources": [],
+    "noise_condition": "quiet",
+    "occupancy": null
+  },
+  "geometry": {
+    "sensor_location": "hardwood floor",
+    "speaker_orientation": "",
+    "speaker_to_sensor_m": 0.0
+  },
+  "nodes": [
+    {
+      "boot_id": 3612849267,
+      "node_id": 1,
+      "sample_rate_hz": 8000
+    }
+  ],
+  "notes": "Quiet background; buffered 8 kHz; PGA32 offset0; geophone taped firmly to hardwood floor",
+  "operator": "",
+  "playback": {
+    "gain_db": null,
+    "source_dataset": "",
+    "source_file": "",
+    "source_id": "",
+    "speaker_model": "",
+    "volume_setting": ""
+  },
+  "receiver_summary": {
+    "closed_at_unix_s": 1784768831.014407,
+    "streams": [
+      {
+        "boot_id": 3612849267,
+        "node_id": 1,
+        "packets_duplicate_or_old": 0,
+        "packets_lost": 0,
+        "packets_received": 1965
+      }
+    ]
+  },
+  "room": {
+    "id": "test-room",
+    "notes": "",
+    "type": ""
+  },
+  "schema_version": "1.0",
+  "session_id": "vib_bg",
+  "session_label": "background",
+  "started_at_utc": "2026-07-23T01:06:08.103Z",
+  "surface": {
+    "material": "hardwood",
+    "mount_method": "geophone taped firmly to hardwood floor",
+    "type": "hardwood-floor"
+  }
+}
