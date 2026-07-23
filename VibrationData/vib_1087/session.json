@@ -1,0 +1,93 @@
+{
+  "acquisition": {
+    "adc_offset": 0,
+    "configured_sample_rate_hz": 8000,
+    "pga_gain": 32,
+    "protocol_version": 1,
+    "sample_storage_dtype": "<i4",
+    "serial_baud": 921600,
+    "transport": "usb_serial",
+    "units": "raw_adc_counts"
+  },
+  "ended_at_utc": "2026-07-23T02:03:41.807Z",
+  "environment": {
+    "intentional_noise_sources": [],
+    "noise_condition": "unspecified",
+    "occupancy": null
+  },
+  "geometry": {
+    "sensor_location": "hardwood floor",
+    "speaker_orientation": "",
+    "speaker_to_sensor_m": 0.05
+  },
+  "nodes": [
+    {
+      "boot_id": 3612849267,
+      "node_id": 1,
+      "sample_rate_hz": 8000
+    }
+  ],
+  "notes": "Final CREMA-D collection; buffered 8 kHz; PGA32 offset0; fixed hardwood placement",
+  "operator": "",
+  "playback": {
+    "gain_db": null,
+    "invoked_at_utc": "2026-07-23T02:00:04.740Z",
+    "process_ended_at_utc": "2026-07-23T02:03:36.797Z",
+    "source_dataset": "CREMA-D",
+    "source_file": "data/playback/IEEE-AIS-emotiondetection/CombinedActors/actor_1087.wav",
+    "source_id": "crema-d_actor_1087",
+    "speaker_model": "Echo Dot",
+    "volume_setting": "10"
+  },
+  "playback_alignment": {
+    "aligned_end_s": 219.52020422316772,
+    "aligned_onset_s": 8.7184676666667,
+    "block_results": [
+      {
+        "lag_s": 0.8,
+        "source_start_s": 0.0,
+        "spearman_correlation": 0.4659453498481939
+      },
+      {
+        "lag_s": 0.8,
+        "source_start_s": 90.37171875,
+        "spearman_correlation": 0.4361143780954947
+      },
+      {
+        "lag_s": 0.8500000000000001,
+        "source_start_s": 180.7434375,
+        "spearman_correlation": 0.47072467490410436
+      }
+    ],
+    "frame_seconds": 0.05,
+    "invocation_anchor_s": 7.926801,
+    "method": "80-2000 Hz vibration envelope matched to source audio envelope",
+    "time_scale": 1.0002766352167005
+  },
+  "receiver_summary": {
+    "closed_at_unix_s": 1784772221.807908,
+    "streams": [
+      {
+        "boot_id": 3612849267,
+        "node_id": 1,
+        "packets_duplicate_or_old": 0,
+        "packets_lost": 0,
+        "packets_received": 7031
+      }
+    ]
+  },
+  "room": {
+    "id": "test-room",
+    "notes": "",
+    "type": ""
+  },
+  "schema_version": "1.0",
+  "session_id": "vib_1087",
+  "session_label": "mixed",
+  "started_at_utc": "2026-07-23T01:59:56.781Z",
+  "surface": {
+    "material": "hardwood",
+    "mount_method": "geophone taped firmly to hardwood floor",
+    "type": "hardwood-floor"
+  }
+}
